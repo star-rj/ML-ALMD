@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-excel_path = "/Users/zhangxiwen/project/patient_classification/features/20240227_RJ_M_POX_CE.xlsx"
+excel_path = "patient_classification/features/20240227_RJ_M_POX_CE.xlsx"
 split_nums = 10
 origin_sheet = 'Sheet1'
 
